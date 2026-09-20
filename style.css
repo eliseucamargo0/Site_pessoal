@@ -5,3 +5,7 @@ body {
     text-align: center;
     padding-top: 50px;
 }
+
+img {
+        height: 20vh;
+    }
